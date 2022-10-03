@@ -98,7 +98,7 @@ namespace fileCSV
             }
 
 
-            
+   
         }
 
         static int compare(string stringa1, string stringa2)
